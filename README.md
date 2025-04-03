@@ -1,2 +1,2 @@
 # CxR_matrix
-multidimensional matrix operations, matrix transposition, arithmetic operations, etc...
+demostration of common matrix operations(transposition, multiplication, addition...)
